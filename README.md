@@ -22,9 +22,10 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 ### [Lesson 1](https://github.com/globalaihub/introduction-to-python/blob/master/Day1.ipynb)
 - Type Conversion
 - Indexing and Slicing on Strings
-- Lists
+
 
 ### [Lesson 2](https://github.com/globalaihub/introduction-to-python/blob/master/Day2.ipynb)
+- Lists
 - If Conditions
 - While Loop
 - For Loop
@@ -40,12 +41,12 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Lambda Function
 - *args and **kwargs
 - Modules
-
+- Try-Except
 
 ### [Lesson 5](https://github.com/globalaihub/introduction-to-python/blob/master/Day5.ipynb)
-- Try-Except
-- Introduction to OOP
+
 - Introduction to NumPy
+- Introduction to Pandas
 
 ## Certificate
 ![](Py_Certificate.png)
