@@ -17,9 +17,10 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Variables
 - Data Types
 - Arithmetic Operations
-- Logical Operations
+
 
 ### [Lesson 1](https://github.com/globalaihub/introduction-to-python/blob/master/Day1.ipynb)
+- Logical Operations
 - Type Conversion
 - Indexing and Slicing on Strings
 
