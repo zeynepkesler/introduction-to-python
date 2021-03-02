@@ -49,7 +49,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Introduction to Pandas
 
 ## Certificate
-![](Py_Certificate.png)
+![](Python Certificate.png)
 
 
 
