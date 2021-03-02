@@ -12,7 +12,6 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 ### [Lesson 0](https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
 - What is Python?
-- Version Control
 - Comments
 - Variables
 - Data Types
