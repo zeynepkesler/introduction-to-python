@@ -1,5 +1,8 @@
 <div align="center">
   <img src="images/logo.png">
+  <img src="images/tobb.png" width=200px >
+  <img src="images/tobb2.png" width=200px >
+
 </div>
 
 # Welcome to our Introduction to Python Programming Course Repo!
