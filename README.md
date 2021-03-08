@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/logo.png" height=200px>
-  <img src="images/tobb.png" height=200px >
-  <img src="images/tobb2.png" height=200px >
+  <img src="images/tobb.png" height=150px >
+  <img src="images/tobb2.png" height=150px >
 
 </div>
 
