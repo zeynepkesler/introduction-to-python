@@ -1,0 +1,13 @@
+ÖDEV 1:
+
+liste=[1,"elma",2,"armut",3,"çilek",4,"karpuz"]
+liste
+print(liste[4:8:1]+liste[0:4:1])
+
+ÖDEV 2 :
+
+n=int(input("Bir sayı girin: " ))
+sayac=0
+while sayac<=n:
+    sayac+=2
+    print(sayac)
